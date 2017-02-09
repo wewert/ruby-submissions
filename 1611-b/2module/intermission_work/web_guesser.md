@@ -3,6 +3,7 @@
 ## Alex Fosco
 
 * Github Repo Link: https://github.com/alfosco/web_guesser
+* Resume link: http://watever.com
 
 ## Amara Lovato
 

@@ -17,12 +17,12 @@ Now cd into each project, run `bundle` on each project, and you're ready to go. 
 
 ### Exercise:
 
-1. Take a look at this stripped down Sinatra app and this stripped down Rails app. How are they different and how are they similar? Identify 5 differences, and for each one describe 1-2 implications. What effect does that difference have for each framework? If you don't know exactly, draw on your knowledge and experience and make some educated guesses/inferences. Also, practice your research skills to look into the differences.
+1. Take a look at this stripped down Sinatra app and this stripped down Rails app. How are they different and how are they similar? Identify 5 differences, and for each one describe 1-2 implications. What effect does that difference have for each framework? If you don't know exactly, draw on your knowledge and experience and make some educated guesses/inferences. Also, practice your research skills to look into the differences. Rails uses multiple controllers. Rails has a concerns folder. Rails has a mailer folder. Rail has the evironment folder. And there is an Initializer folder.
 
-1. Consulting blogs and commentary you find online, identify 3 similarities between Rails and Sinatra.
+1. Consulting blogs and commentary you find online, identify 3 similarities between Rails and Sinatra. Both are MVCs. Both are web frameworks. Both are gems. Both use AR.
 
-1. Consulting blogs and commentary you find online, identify 3 things that distinguish Rails, advantages.
+1. Consulting blogs and commentary you find online, identify 3 things that distinguish Rails, advantages. Scaliing for big applications. Used for applications with large end points/access points. Uses methods instead of verbs.
 
-1. In your Rails project, what does the `routes.rb` file inside of the `/config` directory do? What does this correlate to in our Sinatra app?
+1. In your Rails project, what does the `routes.rb` file inside of the `/config` directory do? What does this correlate to in our Sinatra app? You can order your routes. Correlation is the routing.
 
-1. We teach Sinatra by adding some structures that Sinatra doesn’t need, but help you make the transition between Sinatra and Rails. What does a stripped down implementation of Sinatra look like, and what are the pieces we’ve added for educational purposes?
+1. We teach Sinatra by adding some structures that Sinatra doesn’t need, but help you make the transition between Sinatra and Rails. What does a stripped down implementation of Sinatra look like, and what are the pieces we’ve added for educational purposes? Some of the files were made in put into the structure so we can learn where they go. Also, some of the code was written in the files.
